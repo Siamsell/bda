@@ -1,4 +1,4 @@
-# Plateforme d’Optimisation des Emplois du Temps Universitaires
+#bda
 
 ## Description
 Ce projet consiste en l’étude et la conception d’une **application Python/PostgreSQL** dédiée à la **génération et l’optimisation automatique des emplois du temps universitaires**.  
